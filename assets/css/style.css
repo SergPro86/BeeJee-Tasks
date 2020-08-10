@@ -1,0 +1,60 @@
+.header a, a:hover {
+	color: #141313;
+	text-decoration: none;
+}
+
+.header h1 {
+	letter-spacing: 5px;
+	font-size: 150%;
+}
+
+.header p {
+	color: black !important;
+	font-size: 90%;
+	letter-spacing: 3px;
+}
+
+.nav-pills>li.active>a, .nav-pills>li.active>a:focus, .nav-pills>li.active>a:hover {
+    color: rgb(37, 34, 34);
+    background-color: #346270;
+}
+
+.nav-pills>li>a {
+	color: #fff;
+}
+
+.nav-pills>li>a:hover {
+	background-color: #346270;
+}
+
+.navbar-inverse {
+    padding: 1%;
+    border-radius: 0;
+}
+
+.margin-8 {
+	margin-top: 8%;
+}
+
+.panel {
+	border: none;
+}
+
+.panel-body {
+	background-color: #f9f9f9;
+}
+
+.panel-info>.panel-heading {
+	background-color: #f0ad4e;
+	color: white;
+	border-color: transparent;
+}
+
+.form-control {
+	font-size: 14px;
+	border-radius: 0px;
+}
+
+.input-lg {
+	font-size: 14px;
+}
